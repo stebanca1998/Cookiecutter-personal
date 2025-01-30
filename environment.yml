@@ -1,0 +1,7 @@
+name: cookicutter-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=2.6.0
+prefix: C:\Users\Steban.Cadena\AppData\Local\anaconda3\envs\cookicutter-personal
