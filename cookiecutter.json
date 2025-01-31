@@ -4,5 +4,6 @@
     "project_description": "Tu primer proyecto con Cookiecutter.",
     "project_author": "Tu nombre",
     "project_packages": ["All", "Minimal"],
+    "project_version": "0.1.0",
     "python_version": "3.12"
 }

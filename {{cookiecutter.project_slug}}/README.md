@@ -1,6 +1,6 @@
-# {{ cookiecutter.project_name }} 
+# {{ cookiecutter.project_title }} 
 
-By: {{ cookiecutter.project_author_name }}.
+By: {{ cookiecutter.project_author }}.
 
 Version: {{ cookiecutter.project_version }}
 
